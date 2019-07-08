@@ -9,14 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="polinema.ac.id.dtschapter03.success"></activity>
-        <activity android:name="polinema.ac.id.dtschapter03.ForgotPassword" />
-        <activity android:name="polinema.ac.id.dtschapter03.ResetPassword" />
-        <activity android:name="polinema.ac.id.dtschapter03.WelcomeSlideAssign" />
-        <activity android:name="polinema.ac.id.dtschapter03.WelcomeSlideSuperhero" />
-        <activity android:name="polinema.ac.id.dtschapter03.WelcomBack" />
-        <activity android:name="polinema.ac.id.dtschapter03.WelcomeSlideCalendar" />
-        <activity android:name="polinema.ac.id.dtschapter03.MainActivity">
+        <activity android:name=".success"></activity>
+        <activity android:name=".ForgotPassword" />
+        <activity android:name=".ResetPassword" />
+        <activity android:name=".WelcomeSlideAssign" />
+        <activity android:name=".WelcomeSlideSuperhero" />
+        <activity android:name=".WelcomBack" />
+        <activity android:name=".WelcomeSlideCalendar" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
